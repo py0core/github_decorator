@@ -6,6 +6,6 @@
 </div>
 <div align="center">
 
-[![Python Badge](https://img.shields.io/badge/PY-Created-with-Python-green?style=for-the-badge&logo=Python&logoColor=yellow)]()
+[![Python Badge](https://img.shields.io/badge/PY-Created%20with%20Python-green?style=for-the-badge&logo=Python&logoColor=yellow)]()
 </div>
 <!--END-->
