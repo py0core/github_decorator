@@ -5,6 +5,6 @@
 <h3>README.md example</h3>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/PY-Created with Python-green?style=for-the-badge&logo=Python&logoColor=yellow"/><br/> <!--python-->
+[![python](https://img.shields.io/badge/PY-Created with Python-green?style=for-the-badge&logo=Python&logoColor=yellow)]()
 </div>
 <!--END-->
