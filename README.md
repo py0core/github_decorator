@@ -6,6 +6,6 @@
 </div>
 <div align="center">
 
-[![python](https://img.shields.io/badge/PY-Created-with-Python-green?style=for-the-badge&logo=Python&logoColor=yellow)](https://www.linkedin.com/in/daniel-demidovski/)
+[![python](https://img.shields.io/badge/PY-Created-with-Python-green?style=for-the-badge&logo=Python&logoColor=yellow)]()
 </div>
 <!--END-->
